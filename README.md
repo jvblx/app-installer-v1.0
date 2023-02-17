@@ -6,7 +6,9 @@ Official release
 
 <ul>
    <h6> Web browsers </h6>
-     <ul> <li> sads </li> </ul>
+     <ul> 
+        <li> Brave </li> 
+     </ul>
 </ul>
     
     
