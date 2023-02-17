@@ -4,7 +4,7 @@ Official release
 <h2>List of downloadable applications: </h2>
 
 
-<h5>Web browsers: </h5>
+<h3>Web browsers: </h3>
    <ul>
         <li> Audacity </li></ul>
     
