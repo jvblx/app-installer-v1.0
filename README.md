@@ -1,6 +1,6 @@
 <h4>You can clone this app by using Git: </h4>
    <p>
-      <code>git clone https://github.com/jvblx/app-installer-v1.0.git </code></p>
+      <code>git clone https://github.com/jvblx/app-installer-v1.1.git </code></p>
 
 <h3>List of downloadable applications: </h3>
 <li><i> Web browsers: </i></li>
