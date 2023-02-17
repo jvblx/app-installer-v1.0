@@ -2,7 +2,7 @@
 Official release
 
 <h2>List of downloadable applications: </h2>
-<p> Web browsers </p>
+<p> Web browsers: </p>
    <ul>
       <li> Brave </li> 
       <li> Google Chrome </li> 
@@ -12,22 +12,19 @@ Official release
    </ul>
     
     
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> BlueStacks </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked>  </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
+  <li>BlueStacks </li>
+  <li>CCleaner </li>
+  <li>Deluge </li>
+  <li>Discord </li>
+  <li>DroidCam </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
+  <li>EpicGames </li>
