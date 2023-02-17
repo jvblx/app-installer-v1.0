@@ -4,9 +4,10 @@ Official release
 <h2>List of downloadable applications: </h2>
 
 
-<h3>Web browsers: </h3>
-   <ul>
-        <li> Audacity </li></ul>
+<ul>
+   <li> Web browsers </li>
+     <ul> sads </ul>
+</ul>
     
     
   <li><input type="checkbox" class="task-list-item-checkbox" checked> BlueStacks </li>
