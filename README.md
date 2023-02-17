@@ -5,11 +5,10 @@ Official release
 
 
 <ul>
-  
-<h5>List of downloadable applications: </h5>
-  <ul>
-      <li> Audacity </li>
-  </ul>
+  <h5>Web browsers: </h5>
+    <ul>
+        <li> Audacity </li>
+    </ul>
     
     
   <li><input type="checkbox" class="task-list-item-checkbox" checked> BlueStacks </li>
