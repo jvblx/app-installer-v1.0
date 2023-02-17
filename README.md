@@ -1,6 +1,3 @@
-# app-installer-v1.1
-Official release
-
 <h2>List of downloadable applications: </h2>
 <li> Web browsers: </li>
    <ul>
