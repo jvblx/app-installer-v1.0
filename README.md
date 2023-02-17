@@ -2,7 +2,7 @@
    <p>
       <code>git clone https://github.com/jvblx/app-installer-v1.1.git </code></p>
 
-<h3>List of downloadable applications: </h3>
+<h3>List of applications: </h3>
 <li><i> Web browsers: </i></li>
    <ul>
       <ul>
