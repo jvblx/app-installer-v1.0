@@ -5,8 +5,10 @@ Official release
 
 
 <ul>
+  
   <ul>
-  <li><input type="checkbox" class="task-list-item-checkbox" checked> Audacity </li>
+    <h2>List of downloadable applications: </h2>
+      <li><input type="checkbox" class="task-list-item-checkbox" checked> Audacity </li>
   </ul>
     
     
