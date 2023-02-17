@@ -4,7 +4,7 @@ Official release
 <h2>List of downloadable applications: </h2>
 
 
-<ul class="contains-task-list">
+<ul>
    <h6> Web browsers </h6>
      <ul> <li> sads </li> </ul>
 </ul>
