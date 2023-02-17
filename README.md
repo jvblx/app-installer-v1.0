@@ -6,8 +6,8 @@ Official release
 
 <ul>
   
+<h5>List of downloadable applications: </h5>
   <ul>
-    <h5>List of downloadable applications: </h5>
       <li> Audacity </li>
   </ul>
     
