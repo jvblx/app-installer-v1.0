@@ -2,15 +2,14 @@
 Official release
 
 <h2>List of downloadable applications: </h2>
-
-   <h6> Web browsers </h6>
-     <ul>
-        <li> Brave </li> 
-        <li> Google Chrome </li> 
-        <li> Mozilla Firefox </li>
-        <li> Opera </li>
-        <li> Opera GX </li>
-     </ul>
+<h6> Web browsers </h6>
+   <ul>
+      <li> Brave </li> 
+      <li> Google Chrome </li> 
+      <li> Mozilla Firefox </li>
+      <li> Opera </li>
+      <li> Opera GX </li>
+   </ul>
     
     
   <li><input type="checkbox" class="task-list-item-checkbox" checked> BlueStacks </li>
