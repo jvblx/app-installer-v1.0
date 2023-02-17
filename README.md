@@ -1,4 +1,4 @@
-<h4>You can clone this app by using: </h4>
+<h4>You can clone this app by using Git: </h4>
    <p>
       <code>git clone https://github.com/jvblx/app-installer-v1.0.git </code></p>
 
