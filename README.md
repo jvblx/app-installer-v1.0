@@ -41,8 +41,6 @@ Official release
       <ul>
             <li> CCleaner </li> 
             <li> HWMonitor </li> 
-            <li> Lunar Client </li>
-            <li> Minecraft </li>
       </ul>
    </ul>
 <li> Utilities: </li>
