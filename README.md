@@ -2,7 +2,7 @@
 Official release
 
 <h2>List of downloadable applications: </h2>
-<ul> Web browsers: </ul>
+<li> Web browsers: </li>
    <ul>
       <ul>
             <li> Brave </li> 
