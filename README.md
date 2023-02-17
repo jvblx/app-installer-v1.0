@@ -12,7 +12,7 @@ Official release
             <li> Opera GX </li>
       </ul>
    </ul>
-<li> Programming: </li>
+<li> <h3>Programming: </h3></li>
    <ul>
       <ul>
             <li> Python </li> 
