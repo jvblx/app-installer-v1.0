@@ -1,5 +1,5 @@
 <h2>List of downloadable applications: </h2>
-<li> Web browsers: </li>
+<li><i> Web browsers: </i></li>
    <ul>
       <ul>
             <li> Brave Browser </li> 
