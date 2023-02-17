@@ -6,9 +6,10 @@ Official release
    <h6> Web browsers </h6>
      <ul>
         <li> Brave </li> 
-     </ul>
-     <ul> 
-        <li> Chrome </li> 
+        <li> Google Chrome </li> 
+        <li> Mozilla Firefox </li>
+        <li> Opera </li>
+        <li> Opera GX </li>
      </ul>
     
     
