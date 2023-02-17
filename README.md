@@ -5,7 +5,11 @@ Official release
 
 
 <ul>
+  <ul>
   <li><input type="checkbox" class="task-list-item-checkbox" checked> Audacity </li>
+  </ul>
+    
+    
   <li><input type="checkbox" class="task-list-item-checkbox" checked> BlueStacks </li>
   <li><input type="checkbox" class="task-list-item-checkbox" checked>  </li>
   <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
@@ -25,3 +29,4 @@ Official release
   <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
   <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
   <li><input type="checkbox" class="task-list-item-checkbox" checked> Java </li>
+</ul>
