@@ -7,7 +7,7 @@ Official release
 <ul>
   
   <ul>
-    <h2>List of downloadable applications: </h2>
+    <h5>List of downloadable applications: </h5>
       <li> Audacity </li>
   </ul>
     
