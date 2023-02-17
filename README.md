@@ -9,7 +9,7 @@
             <li> Opera GX </li>
       </ul>
    </ul>
-<li> Programming: </li>
+<li><i> Programming: </i></li>
    <ul>
       <ul>
             <li> Python </li> 
@@ -22,7 +22,7 @@
             <li> NodeJs </li>
       </ul>
    </ul>
-<li> Game Clients: </li>
+<li><i> Game Clients: </i></li>
    <ul>
       <ul>
             <li> EpicGames </li> 
@@ -33,14 +33,14 @@
             <li> Valorant(*) </li>
       </ul>
    </ul>
-<li> PC Maintance: </li>
+<li><i> PC Maintance: </i></li>
    <ul>
       <ul>
             <li> CCleaner </li> 
             <li> HWMonitor </li> 
       </ul>
    </ul>
-<li> Utilities: </li>
+<li><i> Utilities: </i></li>
    <ul>
       <ul>
             <li> Deluge </li> 
@@ -54,7 +54,7 @@
             <li> WinRar </li>
       </ul>
    </ul>
-<li> Other: </li>
+<li><i> Other: </i></li>
    <ul>
       <ul>
             <li> BlueStacks </li> 
