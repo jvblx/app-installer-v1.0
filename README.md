@@ -5,9 +5,9 @@ Official release
 
 <ul>
    <h6> Web browsers </h6>
-     <ul> 
+
         <li> Brave </li> 
-     </ul>
+
      <ul> 
         <li> Chrome </li> 
      </ul>
