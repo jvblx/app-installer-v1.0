@@ -1,4 +1,4 @@
-<h6>You can clone this app by using: </h6>
+<h4>You can clone this app by using: </h4>
 
 <h3>List of downloadable applications: </h3>
 <li><i> Web browsers: </i></li>
