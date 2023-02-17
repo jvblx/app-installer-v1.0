@@ -43,8 +43,6 @@ Official release
             <li> HWMonitor </li> 
             <li> Lunar Client </li>
             <li> Minecraft </li>
-            <li> League of Legends(*) </li>
-            <li> Valorant(*) </li>
       </ul>
    </ul>
 <li> Utilities: </li>
