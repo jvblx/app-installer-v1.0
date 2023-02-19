@@ -6,8 +6,8 @@
 <li><i> Web browsers: </i></li>
    <ul>
       <ul>
-            <li> Brave Browser </li> 
-            <li> Google Chrome </li> 
+            <li> Brave Browser </li>
+            <li> Google Chrome </li>
             <li> Mozilla Firefox </li>
             <li> Opera </li>
             <li> Opera GX </li>
@@ -16,8 +16,8 @@
 <li><i> Programming: </i></li>
    <ul>
       <ul>
-            <li> Python </li> 
-            <li> PyCharm </li> 
+            <li> Python </li>
+            <li> PyCharm </li>
             <li> Sublime Text </li>
             <li> Visual Studio Code </li>
             <li> Postman </li>
@@ -29,7 +29,7 @@
 <li><i> Game Clients: </i></li>
    <ul>
       <ul>
-            <li> EpicGames </li> 
+            <li> Epic Games </li> 
             <li> Steam </li> 
             <li> Lunar Client </li>
             <li> Minecraft </li>
@@ -41,7 +41,8 @@
    <ul>
       <ul>
             <li> CCleaner </li> 
-            <li> HWMonitor </li> 
+            <li> HWMonitor </li>
+            <li> NTLite </li>
       </ul>
    </ul>
 <li><i> Utilities: </i></li>
@@ -53,9 +54,11 @@
             <li> PowerISO </li>
             <li> Rufus </li>
             <li> VLC Media </li>
+            <li> Paint.NET </li>
             <li> Visual Studio 2022 </li>
             <li> VMWare </li>
             <li> WinRar </li>
+            <li> 7Zip </li>
       </ul>
    </ul>
 <li><i> Other: </i></li>
@@ -63,9 +66,7 @@
       <ul>
             <li> BlueStacks </li> 
             <li> Discord </li> 
-            <li> NTLite </li>
             <li> OBS </li>
-            <li> PaintNET </li>
             <li> Spotify </li>
       </ul>
    </ul>
