@@ -58,7 +58,6 @@
             <li> Visual Studio 2022 </li>
             <li> VMWare </li>
             <li> WinRar </li>
-            <li> 7Zip </li>
       </ul>
    </ul>
 <li><i> Other: </i></li>
